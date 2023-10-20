@@ -1,0 +1,20 @@
+/* Estilo para el menú de navegación a la izquierda */
+nav {
+    float: left;
+    width: 30%; /* Ancho del menú, ajusta según tus necesidades */
+    font-size: 38px; /* Tamaño de fuente grande para el menú */
+}
+
+/* Estilo para el texto y la imagen en el lado derecho */
+main {
+    float: right;
+    width: 70%; /* Ancho del área de contenido, ajusta según tus necesidades */
+}
+
+/* Estilo para la imagen debajo del texto */
+img {
+    display: block;
+    margin-top: 20px; /* Espacio entre el texto y la imagen */
+    margin-left: auto;
+    margin-right: auto;
+}
